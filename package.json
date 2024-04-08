@@ -1,0 +1,21 @@
+{
+  "name": "smarteduproject",
+  "version": "1.0.0",
+  "description": "education Portal",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "education",
+    "portal"
+  ],
+  "author": "eynallı",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
